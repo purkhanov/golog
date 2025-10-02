@@ -1,4 +1,4 @@
-module github.com/purkhanov/logger
+module github.com/purkhanov/golog
 
 go 1.25.1
 
